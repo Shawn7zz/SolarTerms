@@ -2,4 +2,4 @@
 
 Chinese solar terms calendar
 
-you can subscribe https://shawn7zz.github.io/SolarTerms/SolarTerms.ics
+You can subscribe to https://shawn7zz.github.io/SolarTerms/SolarTerms.ics on any device or platform that supports ics file.
